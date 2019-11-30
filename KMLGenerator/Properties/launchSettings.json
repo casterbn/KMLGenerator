@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "KMLGenerator": {
+      "commandName": "Project",
+      "commandLineArgs": "test2.kml 30000"
+    }
+  }
+}
